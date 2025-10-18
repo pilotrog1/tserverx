@@ -1,0 +1,4 @@
+flask
+Flask-CORS
+requests # para peticiones http dentro del servidor (opcional, pero buena practica)
+gunicorn # servidor wsgi para produccion en render
